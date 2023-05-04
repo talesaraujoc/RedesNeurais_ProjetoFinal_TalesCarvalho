@@ -1,9 +1,3 @@
-# RedesNeurais_CesarSchool
-
-Tales Araújo Carvalho
-
-Atividade: Dataset / Detecção de objetos / YOLO v5 PyTorch
-
 Geral: dataset composto por skins do jogo eletrônico Counter-Strike Global Offensive, com 300 imagens distribuídas em 4 classes (75 por classe).
 
 Skins são itens utilizados dentro do jogo as quais se diferem pela sua forma física (cor, nível de desgaste, brilho). Cada skin é exclusiva e única! Elas são comercializadas pela comunidade e seus preços variam de acordo com a raridade além das outras variáveis citadas anteriormente.
