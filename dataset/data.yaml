@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['AK47', 'AWP', 'MP9', 'USP']
+
+roboflow:
+  workspace: cesar-school-20222
+  project: dataset_atividade_talescarvalho
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/cesar-school-20222/dataset_atividade_talescarvalho/dataset/1
